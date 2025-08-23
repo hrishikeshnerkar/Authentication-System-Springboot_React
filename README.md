@@ -41,9 +41,27 @@
 🌐 Frontend (React)
 - Navigate to /frontend
 - Install dependencies:
-npm install
+  ```bash
+   npm install
 - Start the dev server:
-npm run dev
+  ```bash
+   npm run dev
+
+---
+
+🔄 API Endpoints
+POST /login — Authenticate user
+POST /register — Create new account
+POST /send-otp — Send email verification OTP
+POST /verify-otp — Verify email OTP
+POST /send-reset-otp — Send password reset OTP
+POST /reset-password — Reset password
+GET /profile — Fetch user profile
+GET /is-authenticated — Check login status
+
+
+
+
 
 
 
