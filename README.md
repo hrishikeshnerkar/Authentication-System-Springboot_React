@@ -49,16 +49,16 @@
 
 ---
 
-🔄 API Endpoints
-| Method | Endpoint | Description | 
-| POST | /login | Authenticate user | 
-| POST | /register | Create new account | 
-| POST | /send-otp | Send email verification OTP | 
-| POST | /verify-otp | Verify email OTP | 
-| POST | /send-reset-otp | Send password reset OTP | 
-| POST | /reset-password | Reset password | 
-| GET | /profile | Fetch user profile | 
-| GET | /is-authenticated | Check login status | 
+## API Endpoints
+
+- **POST** `/login` — Authenticate user
+- **POST** `/register` — Create new account
+- **POST** `/send-otp` — Send email verification OTP
+- **POST** `/verify-otp` — Verify email OTP
+- **POST** `/send-reset-otp` — Send password reset OTP
+- **POST** `/reset-password` — Reset password
+- **GET** `/profile` — Fetch user profile
+- **GET** `/is-authenticated` — Check login status
 
 
 
