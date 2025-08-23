@@ -18,12 +18,12 @@
 
 ## 🧱 Tech Stack
 
-| Layer        | Technology                          |
-|--------------|-------------------------------------|
+| Layer        | Technology                           |
+|--------------|--------------------------------------|
 | Frontend     | React, Axios, React Router, Toastify |
-| Backend      | Spring Boot, Spring Security, JWT   |
-| Database     | MySQL / PostgreSQL (configurable)   |
-| Email Service| JavaMailSender / SMTP               |
+| Backend      | Spring Boot, Spring Security, JWT    |
+| Database     | MySQL                                |
+| Email Service| SMTP(Brevo)                          |
 
 
 ---
