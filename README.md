@@ -50,7 +50,6 @@
 ---
 
 🔄 API Endpoints
-🔄 API Endpoints
 | Method | Endpoint | Description | 
 | POST | /login | Authenticate user | 
 | POST | /register | Create new account | 
@@ -60,6 +59,11 @@
 | POST | /reset-password | Reset password | 
 | GET | /profile | Fetch user profile | 
 | GET | /is-authenticated | Check login status | 
+
+
+
+
+
 
 
 
