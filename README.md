@@ -41,11 +41,11 @@
 ### 🌐 Frontend (React)
 1. Navigate to `/frontend`
 2.Install dependencies:
-   ```bash
-   npm install
+      ```bash
+      npm install
 3.Start the dev server:
-   ```bash
-   npm run dev
+      ```bash
+      npm run dev
 
 ---
 
