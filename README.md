@@ -38,7 +38,7 @@
    ```bash
    mvn spring-boot:run
 
-🌐 Frontend (React)
+### 🌐 Frontend (React)
 - Navigate to /frontend
 - Install dependencies:
   ```bash
