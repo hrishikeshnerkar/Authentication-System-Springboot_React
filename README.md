@@ -47,7 +47,8 @@
       ```bash
       npm run dev
 
-   [!Front Page]<img width="1913" height="886" alt="image" src="https://github.com/user-attachments/assets/28d5fff5-bea2-49c6-a933-aa61e46ac342" />
+   ### 🚀 Front Page
+   <img width="1913" height="886" alt="image" src="https://github.com/user-attachments/assets/28d5fff5-bea2-49c6-a933-aa61e46ac342" />
 
       
 ---
@@ -74,38 +75,33 @@ To demonstrate the secure and responsive behavior of AuthNest, below are screens
 - 🧠 Session Persistence — Auto-login via stored token
 - 📦 Frontend UI — Clean React interface with Toast notifications
 
-## 🔐 Login with JWT
+### 🔐 Login with JWT
 Secure token-based authentication with session persistence.
 <img width="1905" height="878" alt="image" src="https://github.com/user-attachments/assets/6be3f522-064b-4f13-ab0a-fadb4ca7d338" />
 
 ## 🆕 Create Account
 User registration with email input and password setup.
-![Create Account Page] 
 <img width="1908" height="878" alt="image" src="https://github.com/user-attachments/assets/17cba55b-e147-499f-b9b7-216cb36b99c8" />
-![Account Dashboard] 
 
-## 📦 Account Dashboard Page
+### 📦 Account Dashboard Page
+User name is visible
 <img width="1904" height="857" alt="image" src="https://github.com/user-attachments/assets/de9354e8-39b4-4a9f-b42c-3cb3315234eb" />
-![Reset Password Page]
 
-## 🔐 Reset Password Page
+### 🔐 Reset Password Page
+Email should be entered link to account
 <img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/5cc00729-243c-48bf-b292-d053c44cf711" />
-![Sending Verification Code] 
 
-## 📧 Email Verification
+### 📧 Email Verification
 OTP input screen for verifying user identity via email.
 <img width="1888" height="889" alt="image" src="https://github.com/user-attachments/assets/6289bb50-9063-42da-9d6c-4e04dead5f21" />
-![Email send to Account register mail]
 
-## 📬 Verification Email
+### 📬 Verification Email
 Email sent to registered address containing OTP code.
 <img width="1525" height="550" alt="image" src="https://github.com/user-attachments/assets/ff3abf43-739e-4fce-a21e-324899582019" />
-![Reset Password Page]
 
-## 🔁 Password Reset
+### 🔁 Password Reset
 OTP validation followed by new password input.
 <img width="1909" height="891" alt="image" src="https://github.com/user-attachments/assets/28703d63-478b-49b9-94c9-b1f6d82ee6d3" />
-
 
 ---
 
