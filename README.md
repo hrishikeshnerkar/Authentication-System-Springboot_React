@@ -39,14 +39,14 @@
    mvn spring-boot:run
 
 ### 🌐 Frontend (React)
-1. Navigate to `/frontend`
+   1. Navigate to `/frontend`
    
-2.Install dependencies:
+   2.Install dependencies:
    ```bash
    npm install
    ```
      
-3.Start the dev server:
+   3.Start the dev server:
    ```bash
    npm run dev
    ```
