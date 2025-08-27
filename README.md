@@ -65,7 +65,7 @@
 
 ---
 
-🖼️ Authentication Flow Screenshots
+## 🖼️ Authentication Flow Screenshots
 🔍 Visualizing AuthNest in Action
 To demonstrate the secure and responsive behavior of AuthNest, below are screenshots capturing key user flows:
 - 🔐 Login with JWT — Secure token-based authentication
