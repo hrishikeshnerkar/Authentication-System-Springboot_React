@@ -46,6 +46,9 @@
    3. Start the dev server:
       ```bash
       npm run dev
+
+   [!Front Page]<img width="1913" height="886" alt="image" src="https://github.com/user-attachments/assets/28d5fff5-bea2-49c6-a933-aa61e46ac342" />
+
       
 ---
 
@@ -60,6 +63,18 @@
 - **GET** `/profile` — Fetch user profile
 - **GET** `/is-authenticated` — Check login status
 
+---
+
+🖼️ Authentication Flow Screenshots
+🔍 Visualizing AuthNest in Action
+To demonstrate the secure and responsive behavior of AuthNest, below are screenshots capturing key user flows:
+- 🔐 Login with JWT — Secure token-based authentication
+- 📧 Email Verification — OTP input and validation
+- 🔁 Password Reset — OTP + new password workflow
+- 🧠 Session Persistence — Auto-login via stored token
+- 📦 Frontend UI — Clean React interface with Toast notifications
+
+  
 
 ---
 
