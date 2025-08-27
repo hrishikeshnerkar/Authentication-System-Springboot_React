@@ -74,7 +74,14 @@ To demonstrate the secure and responsive behavior of AuthNest, below are screens
 - 🧠 Session Persistence — Auto-login via stored token
 - 📦 Frontend UI — Clean React interface with Toast notifications
 
-  
+![Login Page]<img width="1905" height="878" alt="image" src="https://github.com/user-attachments/assets/6be3f522-064b-4f13-ab0a-fadb4ca7d338" />
+![Create Account Page] <img width="1908" height="878" alt="image" src="https://github.com/user-attachments/assets/17cba55b-e147-499f-b9b7-216cb36b99c8" />
+![Account Dashboard] <img width="1904" height="857" alt="image" src="https://github.com/user-attachments/assets/de9354e8-39b4-4a9f-b42c-3cb3315234eb" />
+![Reset Password Page] <img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/5cc00729-243c-48bf-b292-d053c44cf711" />
+![Sending Verification Code] <img width="1888" height="889" alt="image" src="https://github.com/user-attachments/assets/6289bb50-9063-42da-9d6c-4e04dead5f21" />
+![Email send to Account register mail]<img width="1525" height="550" alt="image" src="https://github.com/user-attachments/assets/ff3abf43-739e-4fce-a21e-324899582019" />
+![Reset Password Page]<img width="1909" height="891" alt="image" src="https://github.com/user-attachments/assets/28703d63-478b-49b9-94c9-b1f6d82ee6d3" />
+
 
 ---
 
